@@ -1,0 +1,12 @@
+numpy
+pandas
+apache-airflow
+kafka-python
+pyspark
+sqlalchemy
+undetected-chromedriver
+beautifulsoup4
+selenium
+cassandra-driver
+webdriver_manager
+fake_useragent
