@@ -50,9 +50,8 @@
         - Total_TvDuration: Total monthly viewing duration of TV programs
         - TotalDuraion: Total monthly viewing duration of all programs above
 ## Technologies  
-  - Programing language: Python(pyspark), SQL
-  - Data Lake: Hadoop HDFS
-  - Data Warehouse: MySQL
+  - Programing language: Python(selenium, beautifullsoup,pyspark), SQL
+  - Database: MySQL, Cassandra
   - Data Visualization: Tableau
 
 ## Dasboard
