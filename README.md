@@ -1,7 +1,7 @@
-# ETL_Customer_Behavior
+# Real estate analysis in Ho Chi Minh city
 
 ## Problem Description
-The data engineering project focuses on building a data pipline that analyzes the behavior of users using the service for 1 month. User behavior is what TV shows they watched and how much time they watched
+ - This project builds an automated data pipeline to retrieve and process data for analyzing the real estate situation in Ho Chi Minh City during January and February 2024.
 ## Architecture
 ![Architecture](image/Architecture.png)
 ## About Dataset
