@@ -3,7 +3,7 @@
 ## Problem Description
  - This project builds an automated data pipeline to retrieve and process data for analyzing the real estate situation in Ho Chi Minh City during January and February 2024.
 ## Architecture
-![Architecture](image/Architecture.png)
+![Architecture](image/BDS_KienTruc.drawio.png)
 ## About Dataset
  - Data is nested data and store in  data lake consist of 30 csv files, each file contains data for 1 day. Shcema of data: 
     - _index: string (nullable = true)
