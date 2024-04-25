@@ -20,7 +20,7 @@
 ## Main objective
 - Use Selenium and BeautifulSoup to crawl real estate data from the website https://batdongsan.com.vn/. Optimize the runtime by implementing multithreading in Selenium.
 - Raw data after being retrieved from the web is stored in Cassandra. After processing the data, the data is stored in MySQL for analysis.
-- Both processes will be automated and managed by Apache Airflow. In case of errors during any process, automatic email notifications will be sent.
+- Both the above processes are automated and managed by Apache Airflow. In case of errors in any process, automatic email notifications are sent.
 - Analyze the real estate situation in Ho Chi Minh City, identifying areas with high sales and rentals, and comparing price differences.
 - Create a dashboard for buying and renting in Ho Chi Minh City.
 ## Technologies  
