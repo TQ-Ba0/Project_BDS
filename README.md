@@ -29,4 +29,4 @@
   - Data Visualization: Tableau
 
 ## Dasboard
-![Dashboard](image/Dashboard.png)
+![Dashboard](image/Dashboard2.png)
